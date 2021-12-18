@@ -1,2 +1,2 @@
-# TIL_Today I learn
- Today I learn
+# TIL_Today I learned
+ Today I learned
